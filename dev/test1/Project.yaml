@@ -1,0 +1,10 @@
+Id: 019bc21a-8fab-71e7-a1ff-d6c2f48f15cf
+CompatibilityMode: 8.0
+Vendor: dev
+Name: test1
+Version: 1.0
+Presentation: "test1"
+VendorPresentation: "dev"
+LocalizationLanguages: [Russian]
+DefaultLanguage: Russian
+DevelopmentLanguage: English
