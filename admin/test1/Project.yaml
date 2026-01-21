@@ -1,10 +1,10 @@
-Id: 019bc21a-8fab-71e7-a1ff-d6c2f48f15cf
+Id: 019bdf12-0d1a-78d6-b77d-cfdea716863f
 CompatibilityMode: 8.0
-Vendor: dev
+Vendor: admin
 Name: test1
 Version: 1.0
-Presentation: "test1"
-VendorPresentation: "dev"
+Presentation: "Test 1"
+VendorPresentation: "admin"
 LocalizationLanguages: [Russian]
 DefaultLanguage: Russian
 DevelopmentLanguage: English
