@@ -1,0 +1,6 @@
+ElementKind: InterfaceComponent
+Id: 0c3915b3-8950-4405-a7f1-c778607b5294
+Name: Application
+VisibilityScope: InSubsystem
+Inherits:
+    Type: StandardClientApplicationWithSections

@@ -1,0 +1,10 @@
+Id: 019db9a7-5d0a-7d63-a5d4-73a6ecf8d271
+CompatibilityMode: 9.0
+Vendor: dev
+Name: p2
+Version: 1.0
+Presentation: "p2"
+VendorPresentation: "dev"
+LocalizationLanguages: [Russian]
+DefaultLanguage: Russian
+DevelopmentLanguage: English

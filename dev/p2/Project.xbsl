@@ -1,0 +1,9 @@
+// @ApplicationSetup(Id = "ApplicationSetup", Order = 1)
+// method ApplicationSetup(Version: Version)
+// TODO Uncomment the method and insert the handler content. The method with this Id will be executed only once!
+// ;
+
+// @ProjectUpdate(Id = "ConvertData", Order = 1)
+// method ConvertData(PreviousVersion: Version, NewVersion: Version)
+// TODO Uncomment the method and insert the handler content. The method with this Id will be executed only once!
+// ;
